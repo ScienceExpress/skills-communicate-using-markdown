@@ -1,10 +1,11 @@
 # Learning Markdown - Applied
-## Creating Headers
-This was my first header.
 
-## Image of a Yaktocat
-Next up: A very important image of a Yaktocat!
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+## Creating a Task List
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] Test task lists out :)
+Only one space is needed between the brackets!
 
 ## Some code examples!
 ### Example 1
@@ -20,3 +21,12 @@ var myVar = "Hello, world!";
 ''' python
 print("hello world!")
 '''
+
+## Image of a Yaktocat
+Next up: A very important image of a Yaktocat!
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+## Creating Headers
+This was my first header.
+
+
